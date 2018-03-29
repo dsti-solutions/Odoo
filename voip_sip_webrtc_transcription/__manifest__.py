@@ -19,5 +19,5 @@
     'external_dependencies': {'python': ['speech_recognition']},    
     'images':[
     ],
-    'installable': True,
+    'installable': False,
 }

@@ -13,5 +13,5 @@
     'images':[
     ],
     'depends': ['web'],
-    'installable': True,
+    'installable': False,
 }

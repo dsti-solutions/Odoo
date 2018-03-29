@@ -37,5 +37,5 @@
         'static/description/1.jpg',
         'static/description/2.jpg',
     ],
-    'installable': True,
+    'installable': False,
 }

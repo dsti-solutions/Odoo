@@ -20,5 +20,5 @@
     'images':[
         'static/description/1.jpg',
     ],
-    'installable': True,
+    'installable': False,
 }
